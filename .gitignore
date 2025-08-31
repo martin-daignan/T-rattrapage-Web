@@ -1,0 +1,50 @@
+# Node.js
+node_modules/
+
+# Build / dist
+dist/
+build/
+.cache/
+.next/
+out/
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+*.log.*
+debug.log
+error.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Environment / secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Trello tokens / secrets
+config/trello.js
+src/config/trello.js
+src/server/secret.js
+
+# Tailwind / PostCSS
+.pnp.*
+.pnp.js
+postcss.config.js
+
+# Misc
+*.tgz
+*.bak
+*.tmp
+*.orig
