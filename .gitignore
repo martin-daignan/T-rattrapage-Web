@@ -36,8 +36,7 @@ Thumbs.db
 # Trello tokens / secrets
 config/trello.js
 src/config/trello.js
-src/server/secret.js
-
+src/server/config/
 # Tailwind / PostCSS
 .pnp.*
 .pnp.js
